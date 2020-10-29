@@ -1,0 +1,8 @@
+5 5
+1 0
+3 4
+HHHHH
+    H
+H HHH
+H    
+HHHHH
